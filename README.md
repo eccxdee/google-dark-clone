@@ -1,4 +1,5 @@
 # Google-Dark-Clone
+
 <div align= center>
-  <img src"https://user-images.githubusercontent.com/75847604/189360901-de2373fd-0c14-4fe7-9fd2-6308f181a918.png" width=600 />
+  <img src="https://user-images.githubusercontent.com/75847604/189362703-9124a885-333d-4cac-807a-8a9293e20229.png" width=600 />
 </div>
