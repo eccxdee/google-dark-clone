@@ -1,0 +1,124 @@
+:root {
+    --font-color:#FFFFFF; 
+}
+body {
+    margin: 0;
+    background-color: #353535; 
+    color: var(--font-color)   
+}
+
+.root{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.8rem;
+}
+
+.header a {
+    font-family: arial, "sans serif";
+    margin: 0 0.5rem;
+    text-decoration: none;
+    color: var(--font-color);
+}
+
+.header a:hover {
+    text-decoration: underline;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    border: 4px solid red;
+    border-radius: 50%;
+}
+
+.body {
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.body img {
+    width: 300px;
+    margin-bottom: 150px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+.body-search {
+    border: 1px solid gray;
+    width: 472px;
+    max-width: 571px;
+    min-width: 472;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem;
+    margin-bottom: auto;
+}
+
+.body-search:hover{
+    background: rgb(42, 43, 46);
+
+}
+
+.body-search input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    color: var(--font-color);
+    outline: none;
+}
+
+.body-buttons {
+display: flex;
+justify-content: center;
+margin-bottom: auto;
+}
+
+.body-buttons button{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(43, 43, 46);
+    color: var(--font-color);
+    margin: 0.5rem 0.2rem;
+    padding: 0.5rem 0.8rem;
+}
+
+.body-buttons button:hover{
+border: 1px solid rgb(84, 88, 83);
+}
+
+.footer {
+    background: rgb(43, 43, 43);
+    display: flex;
+    justify-content: space-between;
+    padding: 0.9rem;
+    padding-top: 10px;
+}
+
+.footer a{
+    font-family: arial, "sans serif";
+    margin: 0 0.5rem;
+    text-decoration: none;
+    color: var(--font-color);
+}
+
+.footer a:hover{
+text-decoration: underline;
+}
