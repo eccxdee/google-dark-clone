@@ -3,7 +3,7 @@
 ### Acesse [https://google-dark-clone.netlify.app/]
 
 <div align= center>
-  <img src="https://user-images.githubusercontent.com/75847604/189362703-9124a885-333d-4cac-807a-8a9293e20229.png" width=600 />
+  <img src="https://user-images.githubusercontent.com/75847604/193582415-234e46f0-a916-4c05-9b56-f9f22dce0163.png" width=600 />
 </div>
 
 ## projeto em
