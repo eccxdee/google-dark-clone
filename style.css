@@ -51,9 +51,8 @@ body {
     justify-content:center;
     align-items: center;
 }
-.body img {
+.body-img img {
     width: 300px;
-    margin-bottom: 150px;
     display: flex;
     align-items: center;
     padding-bottom: 1rem;
@@ -98,7 +97,6 @@ margin-bottom: auto;
     color: var(--font-color);
     margin: 0.5rem 0.2rem;
     padding: 0.5rem 0.8rem;
-    cursor: pointer;
 }
 
 .body-buttons button:hover{
